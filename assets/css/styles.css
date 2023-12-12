@@ -10,7 +10,31 @@ body {
 }
 
 .North{
-  background-color: green;
-  width:200px;
-  height:125px;
+  background-color: #057705;
+  font-size: larger;
+  width:150px;
+  height:80px;
+  margin-left: 175px;
+  font-weight: bold;
+}
+
+.Central{
+  font-size: larger;
+  width:150px;
+  height:80px;
+  margin-left: 175px;
+  margin-top:10px;
+  font-weight: bold;
+
+}
+
+.South{
+  font-size: larger;
+  background-color: #AE0407;
+  width:150px;
+  height:80px;
+  margin-left: 175px;
+  margin-top: 10px;
+  font-weight: bold;
+
 }
